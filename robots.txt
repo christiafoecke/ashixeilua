@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ootietheis.femmeandroid.com/sitemap.xml
